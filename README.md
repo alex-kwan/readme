@@ -11,11 +11,11 @@ GitHub: https://github.com/alex-kwan
 **Engineering Manager / Lead, Web UI Library**  
 *Jan 2020 – Dec 2025*
 
-- Led UI Library and samples platform; partnered with customers and internal teams to deliver rich video calling experiences for 1P/3P customers.
-- Grew the team to 7 engineers, improving processes via biweekly experimentation and reflection.
-- Built an open-source repo enabling calling experiences in only a few lines of code; achieved 6k+ weekly npm downloads.
-- Leveraged FluentUI to deliver Microsoft-grade accessibility by default.
-- Applied AI and automation to improve development workflows and support on GitHub and Storybook.
+- Led the UI Library and samples platform, partnering with customers and internal teams to ship video calling experiences for 1P/3P customers.
+- Scaled the team to 7 engineers and raised execution quality through biweekly experimentation and reflection.
+- Launched an open-source repo that enabled calling experiences in a few lines of code; reached 6k+ weekly npm downloads.
+- Delivered Microsoft-grade accessibility by default by standardizing on Fluent UI. (WCAG 2.2)
+- Automated developer workflows and support via AI to speed GitHub and Storybook operations.
 
 **Notable projects**: Among Us Voice Application (hackathon), Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library
 
@@ -23,10 +23,10 @@ GitHub: https://github.com/alex-kwan
 **Software Engineer**  
 *Sep 2014 – Dec 2019*
 
-- Built collaborative online experiences for the web client with creative engineering solutions.
-- Delivered features with incremental rollouts to existing production systems.
-- Drove team growth and feature ownership across the team.
-- Engaged customers to build product advocacy and trust.
+- Built collaborative web experiences for OneNote with reliable, scalable client-side engineering.
+- Shipped features through safe, incremental rollouts in production.
+- Drove feature ownership and helped grow team capability.
+- Partnered with customers to build advocacy and trust.
 
 **Projects**: Client-side image cropping, server-side content caching, TypeScript/C# transpilation, conversational language learning hackathon, voice controls for note taking.
 
@@ -34,27 +34,27 @@ GitHub: https://github.com/alex-kwan
 **Platform Software Developer**  
 *Jul 2013 – Aug 2014*
 
-- Developed native event conferencing apps for iOS, Android, BlackBerry, Web, and Windows Phone.
-- Unified Windows Phone/Tablet 8 libraries.
-- Automated tests for legacy Java BlackBerry codebase using BBUnit.
+- Delivered native event conferencing apps across iOS, Android, BlackBerry, Web, and Windows Phone.
+- Unified Windows Phone and Tablet 8 libraries to reduce duplication and improve maintainability.
+- Automated tests for a legacy Java BlackBerry codebase using BBUnit.
 - Refactored Android code in a medium-sized team to support client-driven projects.
 
 ### Sasamat Blue
 **Software Developer**  
 *Sep 2012 – Jan 2013*
 
-- Ported an application to BlackBerry legacy platform from iOS and Android.
-- Improved speed and network performance on the mobile client.
+- Ported an application to the BlackBerry legacy platform from iOS and Android.
+- Improved mobile client speed and network performance.
 - Designed multi-resolution friendly code for BlackBerry 5.0+ devices.
 
 ### BlackBerry
 **Software Developer Intern**  
 *Sep 2010 – May 2012*
 
-- Enhanced association and filtering of Wi‑Fi access points.
-- Created regression tests using SOAP UI.
-- Built BB10 networking tools to determine connectivity issues.
-- Optimized battery performance of WLAN usage in dormant conditions.
+- Improved association and filtering of Wi‑Fi access points.
+- Built regression tests using SOAP UI.
+- Created BB10 networking tools to diagnose connectivity issues.
+- Optimized WLAN power usage in dormant conditions to improve battery life.
 
 ### IOTO International
 **Software Developer Intern**  
@@ -69,8 +69,8 @@ GitHub: https://github.com/alex-kwan
 ### Undergraduate Capstone Open Source Project
 *Jan 2013 – Apr 2013*
 
-- Built open-source C/C++ to JavaScript libraries for BlackBerry HTML5 developers.
-- Used asynchronous coding for flexibility and performance on BlackBerry 10.
+- Built open-source C/C++-to-JavaScript libraries for BlackBerry HTML5 developers.
+- Used asynchronous patterns to improve flexibility and performance on BlackBerry 10.
 - Created WebWorks demo apps to showcase HTML5 functionality.
 
 ### WifiLocator
