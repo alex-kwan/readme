@@ -8,7 +8,7 @@ GitHub: https://github.com/alex-kwan
 ## Work Experience
 
 ### Microsoft — Azure Communication Services
-**Engineering Manager / Lead, Web UI Library**  
+**Senior Engineering Manager / Lead, Web UI Library**  
 *Jan 2020 – Dec 2025*
 
 - Led the UI Library and samples platform, partnering with customers and internal teams to ship video calling experiences for 1P/3P customers.
@@ -16,6 +16,8 @@ GitHub: https://github.com/alex-kwan
 - Launched an open-source repo that enabled calling experiences in a few lines of code; reached 6k+ weekly npm downloads.
 - Delivered Microsoft-grade accessibility by default by standardizing on Fluent UI. (WCAG 2.2)
 - Automated developer workflows and support via AI to speed GitHub and Storybook operations.
+- Built systems for monthly based releases in both beta/stable flavours utilizing one repo with conditional transpilation of bits
+- Empowered team to build out AI-powered flows for weekly maintenance
 
 **Notable projects**: Among Us Voice Application (hackathon), Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library
 
@@ -101,7 +103,10 @@ GitHub: https://github.com/alex-kwan
 
 ## Skills
 
-**Web**: HTML5, CSS3, JavaScript, TypeScript, Babel, Webpack  
-**Collaboration & Tools**: Git (GitHub), Slack, Teams, Loop, Word, PowerPoint  
+**Web**: React, Next.JS, HTML5, CSS3, JavaScript, TypeScript, Babel, Webpack  
+**Collaboration & Tools**: Git (GitHub), Github Codespaces, Slack, Teams, Loop, Word, PowerPoint
+**Build Tools**: Vite, Webpack  
 **Server & APIs**: Express, ASP.NET, REST APIs  
-**Testing**: Jest, Playwright
+**Testing**: Jest, Playwright, React Testing Library
+**DevOps/Web**: Github Actions, ADO Pipelines (YML)
+**AI Tooling**: Copilot, ChatGPT, Github Copilot
