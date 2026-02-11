@@ -1,9 +1,12 @@
-# Alex Kwan
+# Alex Kwan  
+- Phone: 1-(778)-238-9595  
+- Location: Vancouver, Canada
+- Email: alexkwan089@gmail.com  
+- GitHub: https://github.com/alex-kwan 
+- LinkedIn: https://www.linkedin.com/in/kwanalex/
 
-Canada  
-Phone: 1-(778)-238-9595  
-Email: alexkwan089@gmail.com  
-GitHub: https://github.com/alex-kwan
+
+Product-focused engineering leader building amazing products and leaders who build products that enrich our day-to-day lives. Experienced in scaling teams, shipping customer-centered web experiences, and delivering accessible UI platforms. Passionate about mentorship, collaboration, and turning complex problems into delightful user outcomes.
 
 ## Work Experience
 
@@ -19,7 +22,7 @@ GitHub: https://github.com/alex-kwan
 - Built systems for monthly based releases in both beta/stable flavours utilizing one repo with conditional transpilation of bits
 - Empowered team to build out AI-powered flows for weekly maintenance
 
-**Notable projects**: Among Us Voice Application (hackathon), Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library
+**Notable projects**: Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library, Among Us Voice Application (hackathon added voice controls utilizing Azure technology with a custom AmongUs client)
 
 ### Microsoft — OneNote
 **Software Engineer**  
