@@ -1,31 +1,44 @@
 # Alex Kwan  
-- Phone: 1-(778)-238-9595  
+- Phone: +1 778-238-9595  
 - Location: Vancouver, Canada
 - Email: alexkwan089@gmail.com  
 - GitHub: https://github.com/alex-kwan 
 - LinkedIn: https://www.linkedin.com/in/kwanalex/
 
-
-Product-focused engineering leader building amazing products and leaders who build products that enrich our day-to-day lives. Experienced in scaling teams, shipping customer-centered web experiences, and delivering accessible UI platforms. Passionate about mentorship, collaboration, and turning complex problems into delightful user outcomes.
+Engineering Manager and hands-on Full-Stack leader with 10+ years of experience building scalable React/TypeScript platforms, including a decade at Microsoft. Combines technical leadership with hands-on development, growing high-performing teams while shipping reliable, accessible, and developer-first web platforms at scale. Proven track record of driving architectural direction, increasing developer adoption (6k+ weekly npm downloads), and accelerating delivery velocity (CI/CD reduced from 48 hours to 20 minutes). Passionate about mentoring engineers, fostering collaboration, and delivering measurable business and customer impact.
 
 ## Work Experience
 
 ### Microsoft — Azure Communication Services
 **Senior Engineering Manager / Lead, Web UI Library**  
-*Jan 2020 – Dec 2025*
+*Jan 2021 – Dec 2025*
 
-- Led the UI Library and samples platform, partnering with customers and internal teams to ship video calling experiences for 1P/3P customers.
-- Scaled the team to 7 engineers and raised execution quality through biweekly experimentation and reflection.
-- Launched an open-source repo that enabled calling experiences in a few lines of code; reached 6k+ weekly npm downloads.
-- Delivered Microsoft-grade accessibility by default by standardizing on Fluent UI. (WCAG 2.2)
-- Automated developer workflows and support via AI to speed GitHub and Storybook operations.
-- Built systems for monthly based releases in both beta/stable flavours utilizing one repo with conditional transpilation of bits
-- Empowered team to build out AI-powered flows for weekly maintenance
+- Led and scaled a 7-engineer team, fostering a high-performing culture.
+- Improved execution quality through biweekly experimentation, reflection, and performance calibration cycles.
+- Launched an open-source UI library reaching 6k+ weekly npm downloads
+- Re-architected CI/CD pipelines, reducing build times from 48 hours to 20 minutes, improving developer productivity.
+- Introduced AI-driven workflows for GitHub and Storybook, reducing maintenance overhead and accelerating feature delivery.
+- Partnered with product management to define roadmap execution for first and third-party customers.
+- Hired and mentored engineers, growing their technical ownership and promotion readiness.
+- Reduced technical debt and designed a unified release system enabling predictable monthly beta and stable releases.
 
-**Notable projects**: Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library, Among Us Voice Application (hackathon added voice controls utilizing Azure technology with a custom AmongUs client)
+**Notable projects**: Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library  
+**Skills**: TypeScript, React, Webpack, BabelJS, StorybookJS, GitHub, C#, NodeJS, Vite, ESBuild
+
+### Microsoft — Azure Communication Services
+**(Full Stack) Software Engineer**  
+*Jan 2020 – Dec 2020*
+
+- Built end-to-end chat and calling scenarios using Azure Communication Services and React.
+- Prototyped over 15 components leveraging underlying communication SDKs for developers to piece together. 
+- Led 4 engineers across a number of existing teams to accelerate GTM strategies to drive 3rd party development platform.
+- Identified and implemented key server-side pieces to further assist client-side based communication scenarios.
+
+**Notable projects**: Among Us Voice Application (hackathon added voice controls utilizing Azure technology with a custom Among Us client), 
+**Skills**: Typescript, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS 
 
 ### Microsoft — OneNote
-**Software Engineer**  
+**(Full Stack) Software Engineer**  
 *Sep 2014 – Dec 2019*
 
 - Built collaborative web experiences for OneNote with reliable, scalable client-side engineering.
@@ -33,7 +46,8 @@ Product-focused engineering leader building amazing products and leaders who bui
 - Drove feature ownership and helped grow team capability.
 - Partnered with customers to build advocacy and trust.
 
-**Projects**: Client-side image cropping, server-side content caching, TypeScript/C# transpilation, conversational language learning hackathon, voice controls for note taking.
+**Notable Projects**: Client-side image cropping, server-side content caching, TypeScript/C# transpilation, conversational language learning hackathon, voice controls for note taking.
+**Skills**: ScriptSharp, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS
 
 ### QuickMobile
 **Platform Software Developer**  
@@ -41,58 +55,13 @@ Product-focused engineering leader building amazing products and leaders who bui
 
 - Delivered native event conferencing apps across iOS, Android, BlackBerry, Web, and Windows Phone.
 - Unified Windows Phone and Tablet 8 libraries to reduce duplication and improve maintainability.
-- Automated tests for a legacy Java BlackBerry codebase using BBUnit.
-- Refactored Android code in a medium-sized team to support client-driven projects.
 
 ### Sasamat Blue
 **Software Developer**  
 *Sep 2012 – Jan 2013*
 
 - Ported an application to the BlackBerry legacy platform from iOS and Android.
-- Improved mobile client speed and network performance.
 - Designed multi-resolution friendly code for BlackBerry 5.0+ devices.
-
-### BlackBerry
-**Software Developer Intern**  
-*Sep 2010 – May 2012*
-
-- Improved association and filtering of Wi‑Fi access points.
-- Built regression tests using SOAP UI.
-- Created BB10 networking tools to diagnose connectivity issues.
-- Optimized WLAN power usage in dormant conditions to improve battery life.
-
-### IOTO International
-**Software Developer Intern**  
-*May 2008 – Aug 2008*
-
-- Designed mock user interfaces for transportation systems.
-- Implemented designs on BlackBerry for real use‑case tests.
-- Developed touch-screen kiosk applications in J2ME.
-
-## Projects
-
-### Undergraduate Capstone Open Source Project
-*Jan 2013 – Apr 2013*
-
-- Built open-source C/C++-to-JavaScript libraries for BlackBerry HTML5 developers.
-- Used asynchronous patterns to improve flexibility and performance on BlackBerry 10.
-- Created WebWorks demo apps to showcase HTML5 functionality.
-
-### WifiLocator
-*Jun 2012 (1 week)*
-
-- Led a team of 5 developers using lean methodology.
-- Designed protocols to determine position across rooms and floors.
-- Assisted BlackBerry Java platform development and iOS investigation.
-
-### SFU Mobile
-*May 2012 – Aug 2012*
-
-- Built three applications bridging education and mobile technology.
-- Designed unit tests across multiple web services.
-- Managed 22 students across business, design, and development teams.
-- Co-developed REST architecture for consolidated development.
-- Learned Node.js and created notification libraries across 3 applications.
 
 ## Education
 
@@ -106,10 +75,9 @@ Product-focused engineering leader building amazing products and leaders who bui
 
 ## Skills
 
-**Web**: React, Next.JS, HTML5, CSS3, JavaScript, TypeScript, Babel, Webpack  
-**Collaboration & Tools**: Git (GitHub), Github Codespaces, Slack, Teams, Loop, Word, PowerPoint
-**Build Tools**: Vite, Webpack  
-**Server & APIs**: Express, ASP.NET, REST APIs  
+**Frontend**: React, Next.js, TypeScript, HTML5, CSS3, Babel
+**Backend**: Express, ASP.NET, REST APIs, NodeJS  
+**DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite  
 **Testing**: Jest, Playwright, React Testing Library
-**DevOps/Web**: Github Actions, ADO Pipelines (YML)
-**AI Tooling**: Copilot, ChatGPT, Github Copilot
+**Collaboration & Tools**: Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma
+**AI Tooling**: Copilot, ChatGPT, GitHub Copilot
