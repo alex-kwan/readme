@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft growing from individual contributor to Senior Engineering Manager while staying hands-on in React/TypeScript web platforms. I led and scaled a 7-engineer team for Azure Communication Services Web UI Library, drove architecture and delivery quality, launched and grew an open-source library to 6k+ weekly npm downloads, and reduced CI/CD time from 48 hours to 20 minutes. I’m seeking an engineering role where I can combine people leadership and hands-on technical execution to build impactful developer-first products, grow strong teams, and deliver measurable business outcomes.
+I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft, growing from an individual contributor to a Senior Engineering Manager while staying hands-on with React/TypeScript web platforms. I led and scaled a 7-engineer team for the Azure Communication Services Web UI Library, drove architecture and delivery quality, launched and grew an open-source library to 6k+ weekly npm downloads, and worked with various partners to integrate note-taking and communication capabilities into existing experiences. I’m seeking an engineering role where I can combine people leadership and hands-on technical execution to build impactful, developer-first products, grow strong teams, and deliver amazing features with world-class excellence.
 
 ## Work Experience
 
@@ -17,7 +17,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 
 - Led and scaled a 7-engineer team, fostering a high-performing culture.
 - Improved execution quality through biweekly experimentation, reflection, and performance calibration cycles.
-- Launched an open-source UI library reaching 6k+ weekly npm downloads
+- Launched an open-source UI library reaching 6k+ weekly npm downloads.
 - Re-architected CI/CD pipelines, reducing build times from 48 hours to 20 minutes, improving developer productivity.
 - Introduced AI-driven workflows for GitHub and Storybook, reducing maintenance overhead and accelerating feature delivery.
 - Partnered with product management to define roadmap execution for first and third-party customers.
@@ -28,19 +28,19 @@ I started in cross-platform mobile and full-stack product development, then spen
 **Skills**: TypeScript, React, Webpack, BabelJS, StorybookJS, GitHub, C#, NodeJS, Vite, ESBuild
 
 ### Microsoft — Azure Communication Services
-**(Full Stack) Software Engineer**  
+**(Full-Stack) Software Engineer**  
 *Jan 2020 – Dec 2020*
 
 - Built end-to-end chat and calling scenarios using Azure Communication Services and React.
 - Prototyped over 15 components leveraging underlying communication SDKs for developers to piece together. 
-- Led 4 engineers across a number of existing teams to accelerate GTM strategies to drive 3rd party development platform.
-- Identified and implemented key server-side pieces to further assist client-side based communication scenarios.
+- Led 4 engineers across multiple teams to accelerate GTM strategies for a third-party development platform.
+- Identified and implemented key server-side components to further support client-side communication scenarios.
 
-**Notable projects**: Among Us Voice Application (hackathon added voice controls utilizing Azure technology with a custom Among Us client), 
-**Skills**: Typescript, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS 
+**Notable projects**: Among Us Voice Application (hackathon project that added voice controls using Azure technology with a custom Among Us client).
+**Skills**: TypeScript, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS
 
 ### Microsoft — OneNote
-**(Full Stack) Software Engineer**  
+**(Full-Stack) Software Engineer**  
 *Sep 2014 – Dec 2019*
 
 - Built collaborative web experiences for OneNote with reliable, scalable client-side engineering.
@@ -48,7 +48,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 - Drove feature ownership and helped grow team capability.
 - Partnered with customers to build advocacy and trust.
 
-**Notable Projects**: Client-side image cropping, server-side content caching, TypeScript/C# transpilation, conversational language learning hackathon, voice controls for note taking.
+**Notable projects**: Client-side image cropping, server-side content caching, TypeScript/C# transpilation, conversational language learning hackathon, voice controls for note-taking.
 **Skills**: ScriptSharp, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS
 
 ### QuickMobile
@@ -63,7 +63,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 *Sep 2012 – Jan 2013*
 
 - Ported an application to the BlackBerry legacy platform from iOS and Android.
-- Designed multi-resolution friendly code for BlackBerry 5.0+ devices.
+- Designed multi-resolution-friendly code for BlackBerry 5.0+ devices.
 
 ## Education
 
@@ -78,9 +78,9 @@ I started in cross-platform mobile and full-stack product development, then spen
 ## Skills
 
 **Frontend**: React, TypeScript, HTML5, CSS3, Babel
-**Backend**: Express, ASP.NET, REST APIs, NodeJS , Next.js 
+**Backend**: Express, ASP.NET, REST APIs, NodeJS, Next.js
 **DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite  
 **Testing**: Jest, Playwright, React Testing Library
 **Collaboration & Tools**: Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma
-**Scripting**: Python, Javascript, YML
+**Scripting**: Python, JavaScript, YML
 **AI Tooling**: Copilot, ChatGPT, GitHub Copilot
