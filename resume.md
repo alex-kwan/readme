@@ -5,7 +5,9 @@
 - GitHub: https://github.com/alex-kwan 
 - LinkedIn: https://www.linkedin.com/in/kwanalex/
 
-Engineering Manager and hands-on Full-Stack leader with 10+ years of experience building scalable React/TypeScript platforms, including a decade at Microsoft. Combines technical leadership with hands-on development, growing high-performing teams while shipping reliable, accessible, and developer-first web platforms at scale. Proven track record of driving architectural direction, increasing developer adoption (6k+ weekly npm downloads), and accelerating delivery velocity (CI/CD reduced from 48 hours to 20 minutes). Passionate about mentoring engineers, fostering collaboration, and delivering measurable business and customer impact.
+## Professional Summary
+
+I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft growing from individual contributor to Senior Engineering Manager while staying hands-on in React/TypeScript web platforms. I led and scaled a 7-engineer team for Azure Communication Services Web UI Library, drove architecture and delivery quality, launched and grew an open-source library to 6k+ weekly npm downloads, and reduced CI/CD time from 48 hours to 20 minutes. I’m seeking an engineering role where I can combine people leadership and hands-on technical execution to build impactful developer-first products, grow strong teams, and deliver measurable business outcomes.
 
 ## Work Experience
 
