@@ -44,6 +44,18 @@ The senior engineer grew through leading a high‑impact decision, and I brought
 
 ---
 
+## How I Partner with Product and Design
+- Align early on the user problem, desired behavior change, and success metrics  
+- Co-create scope by balancing user value, technical feasibility, and delivery risk  
+- Use fast feedback loops (mock reviews, prototypes, and milestone demos) to reduce rework  
+- Make tradeoffs explicit so speed decisions do not compromise user experience or system quality  
+- Keep PM, design, and engineering accountable to shared outcomes, not siloed deliverables  
+
+**Example:**  
+Working on a client-side library, it was key to include the design and product team in weekly discussions. This enabled the team to make faster descisions and deliver features in short order. Working in complex scenarios such as UI for video calling accessibility, we needed to continue to iterate on net new designs. Having key stakeholders from different teams review weekly progress was key in our ability to ship and deliver by a key due date of a real-time text feature in the Azure Communication Services UI Library project.
+
+---
+
 ## How I Grow People
 - Coach through questions that build judgment, not dependency  
 - Give feedback early, directly, and with a clear path forward  

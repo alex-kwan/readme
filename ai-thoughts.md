@@ -18,7 +18,7 @@ If this concern comes up, expand your scope instead of shrinking it:
 Use AI in ways that reduce chaos, not increase load:
 
 - Drive consistency and strengthen documentation.
-- Brainstorm through upcoming scenarios so potential descisions are already aligned with business goals.
+- Brainstorm upcoming scenarios so potential decisions are already aligned with business goals.
 - Build tools that shorten the gap from decision to execution.
 
 ---
@@ -30,7 +30,7 @@ Use AI in ways that reduce chaos, not increase load:
 Practical mindset shifts:
 
 - Focus on the real client problem and business goal.
-- Clients may not not know what they want.
+- Clients may not know what they want.
 - Build strong validation criteria before trusting AI outputs.
 - Remember that “mostly right” can still produce costly unintended outcomes.
 
@@ -56,7 +56,7 @@ Two common scenarios:
 
 Core principle:
 
-- Effective LLM usage is about **discipline** (clear problem framing) and **validation** (proof the result is correct).
+- Effective LLM usage is about **discipline** (clear problem framing) and **validation** (proving the result is correct).
 
 ---
 
