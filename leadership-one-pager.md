@@ -1,7 +1,7 @@
 # Alex Kwan — Engineering Manager Leadership One‑Pager
 
 ## Leadership Philosophy
-I believe high‑performing engineering teams are learning teams. When clarity, ownership, and continuous improvement are built into the team’s operating rhythm, engineers move fast without breaking trust. My role is to remove ambiguity, create an environment where people feel safe to take risks, and ensure I help the team ship meaningful value with technical excellence. I lead through principles and systems, not pressure — and I build teams that scale themselves.
+I believe high‑performing engineering teams are learning teams. When clarity, ownership, and continuous improvement are built into the team’s operating rhythm, engineers move fast without breaking trust. My role is to remove ambiguity, create an environment where people feel safe to take risks, and ensure the team ships meaningful value with technical excellence. I lead through principles and systems, not pressure — and I build teams that scale themselves.
 
 ---
 
@@ -21,7 +21,7 @@ I believe high‑performing engineering teams are learning teams. When clarity, 
 - Keep the team engaged and invested by celebrating growth, surfacing wins, and reinforcing shared ownership of outcomes  
 
 **Example:**  
-I received feedback that the architecture needed to be revisited, and morale dropped sharply — it’s tough to hear that months of work were heading in the wrong direction. I brought the team together and reframed the situation around our true goal: building the most efficient, developer‑friendly product possible. I reminded them this wasn’t failure but an opportunity to deliver something better for our customers.
+I received feedback that the architecture needed to be revisited, and morale dropped sharply — it’s tough to hear that months of work were heading in the wrong direction. I decided to open up the problem, hear out the issue space, and determine how we could be part of the solution. I brought the team together and reframed the situation around our true goal: building the most efficient, developer‑friendly product possible. I reminded them this wasn’t failure but an opportunity to deliver something better for our customers. There was a fair amount of coaching required across the team, with many difficult discussions, but they were all moving us in the right direction. I am ever grateful to have leadership that supported this learning opportunity for me and the team.
 
 As I guided the pivot, I kept the team energized by celebrating each milestone and highlighting the improvements we were unlocking. The shift in mindset revitalized the team, and I ultimately led the release of a public preview of the SDK that delivered a meaningfully better experience for developers.
 
@@ -42,6 +42,9 @@ I made it clear that the engineering team would be the final decision‑makers, 
 
 The senior engineer grew through leading a high‑impact decision, and I brought the team together around the chosen direction. That alignment made the migration smooth, collaborative, and ultimately successful.
 
+
+**Example 2:**
+There are times when new engineering initiatives emerge as challenges on the horizon. In this scenario, we had to balance our software release process while still giving ourselves time to develop features. This allowed us to ship bug fixes while still focusing on delivering features with excellence. I took it on myself to research and share a plan with our partners to address the issue. The challenge wasn’t really a software issue, but rather how we would coordinate with testing teams and other teams that also had bug fixes and features in the same release. Building quorum with the other engineering manager was key to creating alignment and gathering valuable feedback on what might be too frequent of a release cadence. We shared a broader plan that aligned both teams, and presenting it together made it easier to absorb as we iterated over time. The teams shared their own feedback and questions, which complemented the plan, and we were able to release effectively together over time.
 ---
 
 ## How I Partner with Product and Design
@@ -52,7 +55,7 @@ The senior engineer grew through leading a high‑impact decision, and I brought
 - Keep PM, design, and engineering accountable to shared outcomes, not siloed deliverables  
 
 **Example:**  
-Working on a client-side library, it was key to include the design and product team in weekly discussions. This enabled the team to make faster descisions and deliver features in short order. Working in complex scenarios such as UI for video calling accessibility, we needed to continue to iterate on net new designs. Having key stakeholders from different teams review weekly progress was key in our ability to ship and deliver by a key due date of a real-time text feature in the Azure Communication Services UI Library project.
+Working on a client-side library, it was key to include the design and product teams in weekly discussions. This enabled the team to make faster decisions and deliver features in short order. In complex scenarios such as UI for video-calling accessibility, we needed to keep iterating on new designs. There were a number of challenges compounded by web design constraints beyond simply communicating a rich communications experience. How do we convey a similar set of information when users are on an iPhone Safari browser? What if someone requires even more accessibility controls? I made sure to communicate new engineering concerns in feature specifications, and I held weekly syncs with design and product to discuss how the feature would work. As the feature entered implementation, additional challenges emerged. I also reviewed the feature and had a number of coaching conversations across the team on the importance of maintaining good architecture to build consistency and readability. I am grateful for how quickly the team took in the feedback and refactored to align with the rest of the codebase. Having key stakeholders from different teams review weekly progress was key to our ability to ship the real-time text feature in the Azure Communication Services UI Library project by a critical due date.
 
 ---
 
@@ -88,7 +91,7 @@ I believe mastery shows up in how simply we can explain complex systems, so I pa
 
 ## How I Make Decisions
 - Start with user impact and long‑term value  
-- Clarify constraints, risks, and success metrics  
+- Clarify constjngv raints, risks, and success metrics  
 - Evaluate tradeoffs collaboratively and transparently  
 - Choose the simplest solution that scales  
 - Document decisions so the team can move fast with confidence  
