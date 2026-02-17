@@ -75,9 +75,10 @@ Engineering Manager and hands-on Full-Stack leader with 10+ years of experience 
 
 ## Skills
 
-**Frontend**: React, Next.js, TypeScript, HTML5, CSS3, Babel
-**Backend**: Express, ASP.NET, REST APIs, NodeJS  
+**Frontend**: React, TypeScript, HTML5, CSS3, Babel
+**Backend**: Express, ASP.NET, REST APIs, NodeJS , Next.js 
 **DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite  
 **Testing**: Jest, Playwright, React Testing Library
 **Collaboration & Tools**: Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma
+**Scripting**: Python, Javascript, YML
 **AI Tooling**: Copilot, ChatGPT, GitHub Copilot
