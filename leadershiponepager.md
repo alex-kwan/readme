@@ -1,4 +1,4 @@
-# Alex Kwan — Engineering Manager Leadership One‑Pager (FAANG‑Ready)
+# Alex Kwan — Engineering Manager Leadership One‑Pager
 
 ## Leadership Philosophy
 I believe high‑performing engineering teams are learning teams. When clarity, ownership, and continuous improvement are built into the team’s operating rhythm, engineers move fast without breaking trust. My role is to remove ambiguity, create an environment where people feel safe to take risks, and ensure I help the team ship meaningful value with technical excellence. I lead through principles and systems, not pressure — and I build teams that scale themselves.
