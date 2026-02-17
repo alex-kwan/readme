@@ -96,3 +96,15 @@ Validation protects you from false confidence:
 - Define not only *that* it works, but *what good looks like over time*.
 
 In short: speed without validation creates risk; speed with validation creates leverage.
+
+## 8) How do I go about building with AI?
+
+It’s important to define what you want to build with AI before you start prompting. Quick prompts can be useful for exploration, but they can also produce unintended outcomes, especially at scale. I usually start with a Markdown document and iterate with Copilot to verify that the problem framing is clear. A useful final prompt is: “List scenarios, including edge cases, so I can validate expected behavior.” That serves as a final sanity check before implementation.
+
+This document becomes the first version of feature documentation, which makes team reviews much easier. After refinement and comments, I move to the next phase: a development plan.
+
+For prototypes, I keep the plan lightweight and avoid heavy dependencies. The goal is to validate whether the idea is correct, step by step, with explicit checks at each stage. As new ideas emerge, I update the original planning document so decisions remain traceable and the scope stays intentional.
+
+From there, I use AI to draft a substantial portion of the content, then review and refine it. In practice, this is similar to working in an unfamiliar legacy codebase: the value comes from improving the outcome, not from writing every line from scratch. The key is maintaining standards for readability, maintainability, and shared ownership. It’s easy to over-index on functionality and later realize the solution is difficult to understand or modify.
+
+The core point is simple: understand what you are building, define what “correct” looks like, and validate that you actually built it. Small, high-trust teams with strong tooling and disciplined execution can deliver outsized results.
