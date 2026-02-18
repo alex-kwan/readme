@@ -9,6 +9,18 @@
 
 I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft, growing from an individual contributor to a Senior Engineering Manager while staying hands-on with React, TypeScript, Node.js, and C# platforms. I build and lead teams that ship scalable customer-facing products, modernize engineering systems, and improve delivery through strong architecture, CI/CD, testing, and developer tooling. I believe great product experiences are created by teams with room to think creatively, reflect often, and take action; I care deeply about growing engineers into leaders and building shared ownership to solve customer problems and deliver meaningful outcomes.
 
+## Skills
+
+| Category | Skills |
+| --- | --- |
+| Frontend | React, TypeScript, HTML5, CSS3, Babel |
+| Backend | Express, ASP.NET, REST APIs, NodeJS, Next.js, GraphQL |
+| DevOps/CI/CD | GitHub Actions, ADO Pipelines (YML), Vite, Azure |
+| Testing | Jest, Playwright, React Testing Library |
+| Collaboration & Tools | Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma |
+| Scripting | Python, JavaScript, YML |
+| AI Tooling | Copilot, ChatGPT, GitHub Copilot |
+
 ## Work Experience
 
 ### Microsoft — Azure Communication Services
@@ -17,7 +29,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 
 - Led and scaled a 7-engineer team, fostering a high-performing culture.
 - Improved execution quality through biweekly experimentation, reflection, and performance calibration cycles.
-- Launched an open-source UI library reaching 6k+ weekly npm downloads.
+- Launched an open-source UI library reaching 6k+ weekly npm downloads, resulting in over 10 million monthly calling minutes.
 - Re-architected CI/CD pipelines, reducing build times from 48 hours to 20 minutes, improving developer productivity.
 - Introduced AI-driven workflows for GitHub and Storybook, reducing maintenance overhead and accelerating feature delivery.
 - Partnered with product management to define roadmap execution for first and third-party customers.
@@ -34,6 +46,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 - Built end-to-end chat and calling scenarios using Azure Communication Services and React.
 - Prototyped over 15 components leveraging underlying communication SDKs for developers to piece together. 
 - Led 4 engineers across multiple teams to accelerate GTM strategies for a third-party development platform.
+- Partnered across Teams org to build out tele-health and tele-banking solutions
 - Identified and implemented key server-side components to further support client-side communication scenarios.
 
 **Notable projects**: Among Us Voice Application (hackathon project that added voice controls using Azure technology with a custom Among Us client).
@@ -73,14 +86,4 @@ I started in cross-platform mobile and full-stack product development, then spen
 
 ### British Columbia Institute of Technology
 **Diploma of Technology, Client Server and Distributed Systems (Specialization)**  
-*Sep 2007 – May 2009*
-
-## Skills
-
-**Frontend**: React, TypeScript, HTML5, CSS3, Babel
-**Backend**: Express, ASP.NET, REST APIs, NodeJS, Next.js
-**DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite, Azure  
-**Testing**: Jest, Playwright, React Testing Library
-**Collaboration & Tools**: Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma
-**Scripting**: Python, JavaScript, YML
-**AI Tooling**: Copilot, ChatGPT, GitHub Copilot
+*Sep 2007 – May 2009* 
