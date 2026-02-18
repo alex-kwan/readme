@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft, growing from an individual contributor to a Senior Engineering Manager while staying hands-on with React/TypeScript web platforms. I led and scaled a 7-engineer team for the Azure Communication Services Web UI Library, drove architecture and delivery quality, launched and grew an open-source library to 6k+ weekly npm downloads, and worked with various partners to integrate note-taking and communication capabilities into existing experiences. I’m seeking an engineering role where I can combine people leadership and hands-on technical execution to build impactful, developer-first products, grow strong teams, and deliver amazing features with world-class excellence.
+I started in cross-platform mobile and full-stack product development, then spent over a decade at Microsoft, growing from an individual contributor to a Senior Engineering Manager while staying hands-on with React, TypeScript, Node.js, and C# platforms. I build and lead teams that ship scalable customer-facing products, modernize engineering systems, and improve delivery through strong architecture, CI/CD, testing, and developer tooling. I believe great product experiences are created by teams with room to think creatively, reflect often, and take action; I care deeply about growing engineers into leaders and building shared ownership to solve customer problems and deliver meaningful outcomes.
 
 ## Work Experience
 
