@@ -25,7 +25,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 - Reduced technical debt and designed a unified release system enabling predictable monthly beta and stable releases.
 
 **Notable projects**: Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library  
-**Skills**: TypeScript, React, Webpack, BabelJS, StorybookJS, GitHub, C#, NodeJS, Vite, ESBuild
+**Skills**: TypeScript, React, Webpack, BabelJS, StorybookJS, GitHub, C#, NodeJS, Vite, ESBuild, Azure
 
 ### Microsoft — Azure Communication Services
 **(Full-Stack) Software Engineer**  
@@ -37,7 +37,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 - Identified and implemented key server-side components to further support client-side communication scenarios.
 
 **Notable projects**: Among Us Voice Application (hackathon project that added voice controls using Azure technology with a custom Among Us client).
-**Skills**: TypeScript, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS
+**Skills**: TypeScript, React, Webpack, BabelJS, GitHub, C#, ASP.NET Core, NodeJS, Azure
 
 ### Microsoft — OneNote
 **(Full-Stack) Software Engineer**  
@@ -79,7 +79,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 
 **Frontend**: React, TypeScript, HTML5, CSS3, Babel
 **Backend**: Express, ASP.NET, REST APIs, NodeJS, Next.js
-**DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite  
+**DevOps/CI/CD**: GitHub Actions, ADO Pipelines (YML), Vite, Azure  
 **Testing**: Jest, Playwright, React Testing Library
 **Collaboration & Tools**: Git (GitHub), GitHub Codespaces, Slack, Teams, Loop, Word, PowerPoint, Figma
 **Scripting**: Python, JavaScript, YML
