@@ -36,7 +36,7 @@ I started in cross-platform mobile and full-stack product development, then spen
 - Hired and mentored engineers, growing their technical ownership and promotion readiness.
 - Reduced technical debt and designed a unified release system enabling predictable monthly beta and stable releases.
 
-**Notable projects**: Storybook (aka.ms/acssstorybook), GitHub: https://github.com/Azure/communication-ui-library  
+**Notable projects**: Storybook (https://azure.github.io/communication-ui-library/), GitHub: https://github.com/Azure/communication-ui-library  
 **Skills**: TypeScript, React, Webpack, BabelJS, StorybookJS, GitHub, C#, NodeJS, Vite, ESBuild, Azure
 
 ### Microsoft — Azure Communication Services
